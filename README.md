@@ -32,7 +32,7 @@ The main script focuses on implementing the core functionalities of the data pip
 ## Requirements
 
 The project relies on the following dependencies to function properly:
-
+[requirements.txt](https://github.com/irene-reyn/Ecommerce-Data_Pipeline_-Irene-Ofori-Agyeman/blob/main/requirements.txt)
 
 ## License
 
